@@ -2,5 +2,7 @@
 *.iml
 /target
 
+/assests
 
-
+algs4-data/
+/lib
